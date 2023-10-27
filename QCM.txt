@@ -1,0 +1,119 @@
+Q|Quelle est la capitale de la Belgique ?
+A|Bruxelle|V
+A|Gand|X
+A|Liege|X
+A|Antwerp|X
+
+Q|L'équivalent des Oscar en France
+A|les Cesar|V
+A|les Simeon|X|Tu as raison mais c'est des jaloux
+A|NRJ Award|X|c'est une cérémonie de la musique
+A|les Cannes|X|c'est aussi une cérémonie de cinéma français
+
+Q|Quelle est la devise de la Belgique?
+A|"L'union fait la force|V
+A|"En Avant les belges"|X|T'est trop bête
+A|"Justice, Paix, Travaille"|X|C'est la devise de la RD Congo
+A|"One, two, three, Viva la Belgica"|X|T'as cru que c'était l'Algerie?
+A|"Ensembre, réunissons nos forces"|X|Pas avec les flammands en tout cas
+
+Q|Bruxelle se trouve dans la région:
+A|Neutre|V
+A|Allemande|X
+A|Anglaise|X
+A|Flandre|X
+A|Wallonne|X
+
+Q|Combien de faces, un cube possède-t-il ?
+A|6|V
+A|4|X|C'est pas d'un carré qu'on parle ici
+A|8|X
+A|10|X|Sans blague!
+
+Q|Quel est le numéro de téléphone des urgences pour le Canada et les États-Unis d'Amérique ?
+A|911|V
+A|112|X|C'est le numero pour l'Europe je pense
+A|191|X
+
+Q|Qui est considéré comme “le père” de la bombe atomique ?
+A|Robert Oppenheimer|V
+A|Rudolf Diesel|X|Lui c'est pour le moteur Diesel
+A|Werner Von Braun|X|Ah, encore un allemand
+A|Albert Einstein|X|L'élève de SIM
+
+Q|Au football, quel est historiquement le numéro du maillot attribué au gardien de but ?
+A|1|V
+A|3|X
+A|10|X
+
+Q|Comment appelle-t-on le petit de la brebis ?
+A|Un agneau|V
+A|Un Veau|X|Combien ça vaut?
+A|Un mouton|X
+A|Un Chevreau|X|il parle bien de la chevre?
+A|Un Chiot|X|Chiant
+
+Q|Que signifie en français le mot "Guten Tag" ?
+A|Bonjour|V
+A|Je t'aime|X|Moi non plus
+A|Merci|X|Mais je t'en prie, jeune fille
+A|Au revoir|X|À dieu connard
+A|Aucune bonne réponses|X
+
+Q|Comment appelle-t-on l'explosion qui serait à l'origine de l'expansion de l'Univers ?
+A|Le Big Bang|V|La serie comique
+A|La Déflagration Géante|X
+A|le Grand Boom|X
+A|L'explosion originelle|X
+
+Q|Dans quelle articulation du corps humain se situe la rotule ?
+A|Le genou|V
+A|Le cou|X
+A|Le coude|X
+A|le bassin|X|Ou le cul
+
+Q|Combien de canines comporte la denture d'un homme adulte ?
+A|4|V
+A|2|X
+A|6|X
+
+Q|Comment s'appellent les deux petits points placés sur le "i" du mot "astéroïde" ?
+A|Le tréma|V
+A|Un astérisque|X
+A|Un circonflexe|X
+A|Une élision|X
+
+Q|À combien est égale la moitié de 2x2 ?
+A|2|V
+A|1,5|X
+A|3|X
+
+Q|Comment se prénomme l'épouse du président Barack Obama ?
+A|Michelle|V
+A|Barbara|X
+A|Hilary|X
+A|Kathelyne|X
+A|Brigitte|X|Notre Pédophile préfeérée
+
+Q|Comment appelle-t-on les minuscules orifices, situés à la surface de la peau ?
+A|Les Pores|V
+A|Les Porcs|X|les pors sur ta peau?
+A|Les ports|X
+A|Les pors|X
+
+Q|A Hollywood, par quel symbole les célébrités sont-elles représentées sur le sol du Walk Of Fame ?
+A|Des étoiles|V
+A|Des Oscars|X|Pourquoi pas les Simeons tant que tu y es
+A|Des noms de rues|X|La rue ma boule
+A|Des lettres géantes|X|Quelle taille?
+A|Un spirale|X
+
+Q|En France, dans quel palais se déroule généralement le conseil des ministres ?
+A|L'Elysée|V
+A|Le Palais Brogniart|X
+A|Le Grand Palais|X|Quelle taille
+A|Le Palais des Ducs|X|Le duc de boulogne
+
+Q|Simeon est:
+A|Un Genie|V|Il fais passer albert Einstein pour UN CON
+A|Un Beau-gosse|V|Mais aussi les plus sexy
